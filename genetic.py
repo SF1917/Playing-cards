@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Email: parssataghipour@gmail.com
 @author: SF1917
 """
 
